@@ -12,6 +12,7 @@
 
 ### 👨‍💻: About Me :
 
+I am interested in C# and Backend
 
 - :office_worker: I’m working as a  WEB developer
 
