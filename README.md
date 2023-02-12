@@ -11,7 +11,7 @@
 </div>
 
 ### 👨‍💻: About Me :
-I am a Backend Developer
+
 
 - :office_worker: I’m working as a  WEB developer
 
