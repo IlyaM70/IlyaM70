@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="300"/>
   <h1>
   Hello! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -12,9 +11,9 @@
 
 ### 👨‍💻: About Me :
 
-I am interested in C# and Backend
+I am a C# developer 
 
-- :office_worker: I’m working as a  WEB developer
+- :office_worker: Currently looking for work
 
 -  	:joystick: In my free time, I code and read tech articles.
 
