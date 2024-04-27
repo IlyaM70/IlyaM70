@@ -7,7 +7,6 @@
   
 - 📫 How to reach me **imerkulov065@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ilya-merkulov-05b562256/](https://www.linkedin.com/in/ilya-merkulov-05b562256/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
