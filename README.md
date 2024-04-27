@@ -13,7 +13,7 @@
 
 I am a C# developer
 
-- 🖥️: I have 3+ years of experience in developing applications using C#.
+- 🖥️: I have 2+ years of experience in developing applications using C#.
 
 - :office_worker: Currently looking for work
 
