@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, my name is Ilya</h1>
+<h1 align="center">Hello 👋, my name is Ilia</h1>
 <h3 align="center">A passionate C# developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyam70&label=Profile%20views&color=0e75b6&style=flat" alt="ilyam70" /> </p>
