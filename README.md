@@ -1,5 +1,19 @@
 # 💫 About Me:
-Results-driven software developer with 3+ years of experience in designing and optimizing scalable back-end solutions, web applications, and APIs. Strong expertise in C#, ASP.NET, and modern web technologies. Proven track record of delivering high-quality, efficient solutions that meet business needs. Passionate about solving complex problems and contributing to innovative projects.
+```
+public class Me
+{
+    public string Name { get; set; } = "Ilia Merkulov";
+    public string Class { get; set; } = "Software Engineer";
+
+    public string CodeNinjaSkills()
+    {
+        return "When faced with a bug, I don't just debug—I challenge it to a duel. Bugs tremble at the thought of my debugger, " +
+               "and error messages are merely my opponents' way of admitting defeat. My keyboard is my sword, and no semicolon " +
+               "is safe from my relentless precision!";
+    }
+}
+
+```
 
 
 ## 🌐 Socials:
